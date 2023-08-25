@@ -1,10 +1,12 @@
 body{
   background-color: #1D1D1B;
   color: #FFFFFF;
-  text-align: center;
 }
 
 img{
   border-color: #1D1D1B;
 }
 
+h1{
+  text-align: center;
+}
